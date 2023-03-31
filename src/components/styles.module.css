@@ -1,0 +1,13 @@
+.bgimage{
+    background-image: url(./../images/containers.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    height: 70vh;
+    width:auto;
+    position: relative;
+    display: flex;
+
+
+
+  }
